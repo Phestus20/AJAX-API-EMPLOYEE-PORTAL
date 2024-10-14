@@ -1,0 +1,5 @@
+/node_modules
+/fontawesome
+/bootstrap
+.env
+node_modules

@@ -1,0 +1,11 @@
+{
+  "name": "00_express_server",
+  "version": "1.0.0",
+  "description": "REST API WITH AJAX ON EXPRESS SERVER",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Che Phestus fphest@gmail.com",
+  "license": "MIT"
+}
